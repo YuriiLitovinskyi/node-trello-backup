@@ -1,0 +1,18 @@
+{
+  "name": "trello-backup",
+  "version": "1.0.0",
+  "description": "Script creates backup of trello data\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D boards data",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Yurii Litovinskyi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-trello": "^1.3.0"
+  }
+}
