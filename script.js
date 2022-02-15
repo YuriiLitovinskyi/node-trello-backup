@@ -85,6 +85,7 @@ function exportDataToJson(data){
             if(err) throw err;
             
             console.log('\nJSON backup file written!');
+            console.log('Application will be closed in 30 seconds...');
             await sleep(30000);
         }
     );
