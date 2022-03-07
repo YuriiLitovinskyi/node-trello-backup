@@ -12,6 +12,7 @@
   "author": "Yurii Litovinskyi",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.0.0",
     "dotenv": "^16.0.0",
     "node-trello": "^1.3.0"
   }

@@ -1,7 +1,8 @@
-## Application generates JSON backup file for all trello boards
+## Application generates JSON backup file for all trello boards and downloads all file attachments according to each card
 ***  
 ### Setup project:
 &emsp;`npm i`  
+&emsp;`npm i chalk@4.0.0` 
    
 &emsp;`npm i pkg -g`
 

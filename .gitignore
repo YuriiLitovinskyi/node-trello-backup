@@ -2,3 +2,4 @@ node_modules/
 node-trello-backup.exe
 .env
 trelloBackup*
+trello_backup*/
